@@ -1,3 +1,4 @@
+![logo](https://github.com/fazlayrabbii24/fazlayrabbii24/blob/main/LINk-cover.png)
 <h1 align="center">Hi 👋, I'm Fazlay Rabbi</h1>
 <h3 align="center">A UX/UI Designer from Bangladesh</h3>
 
